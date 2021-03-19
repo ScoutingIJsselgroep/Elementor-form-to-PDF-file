@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Form Send Pdf 
  * Description: Custom elementor extension for send form as pdf.
  * Plugin URI:  https://sesam.co/
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Sesam
  * Author URI:  https://sesam.co/
  * Text Domain: elementor-form-send-pdf
@@ -32,7 +32,7 @@ final class Elementor_Form_Send_PDF {
 	 *
 	 * @var string The plugin version.
 	 */
-	const VERSION = '1.0.0';
+	const VERSION = '1.0.1';
 
 	/**
 	 * Minimum Elementor Version
